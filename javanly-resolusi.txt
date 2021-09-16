@@ -1,0 +1,4 @@
+JAVANLY RESOLUSI
+- Konsisten untuk membuat koding PHP Laravel 2x seminggu
+- Membuat Platform Web Dummy Khusus QA
+- Membuat forum diskusi QA
