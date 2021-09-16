@@ -3,11 +3,11 @@ RENCANA KONTEN JAVANLY
 - Javascript
   * ES6
   * Framework Javascript
-    - Vue
-    - React
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Framework
-  - Laravel
+  ^ Laravel
 - Interview
 - Vlog
 - Python
